@@ -6,9 +6,9 @@ EduBazaar is a course selling platform facilitating user registration, course ma
 1. The admin side of the course selling app.
 2. Admins can log in or register a new account.
 3. All admins have the power to:
-    ✅ CREATE courses
-    ✏️ UPDATE courses
-    ❌ DELETE courses
+    CREATE courses
+    UPDATE courses
+    DELETE courses
 
 ## User Dashboard
 1. The user side of the course-selling app
